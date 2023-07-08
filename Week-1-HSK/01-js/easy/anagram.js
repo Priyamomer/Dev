@@ -10,6 +10,7 @@
 function isAnagram(str1, str2) {
   console.log("Priyam");
   console.log("Niraj");
+  console.log("HIHI");
 }
 
 module.exports = isAnagram;
