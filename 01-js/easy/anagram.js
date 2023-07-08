@@ -8,7 +8,7 @@
 */
 
 function isAnagram(str1, str2) {
-
+  console.log("Priyam");
 }
 
 module.exports = isAnagram;
