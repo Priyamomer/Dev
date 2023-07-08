@@ -15,3 +15,4 @@ function calculateTotalSpentByCategory(transactions) {
 module.exports = calculateTotalSpentByCategory;
 
 console.log("Priyam");
+console.log("::");
